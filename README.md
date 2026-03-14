@@ -52,12 +52,12 @@ endmodule
 ```
 
 **RTL realization**
-
+![Alt text](img001.png)
 **Output:**
-
-**RTL**
+![Alt text](img002.png)
 
 **Timing Diagram**
+![Alt text](img003.png)
 
 **Result:**
 
