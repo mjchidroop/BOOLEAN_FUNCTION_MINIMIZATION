@@ -16,7 +16,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 
-**Logic Diagram**
+**Logic Diagram** 
+
+<img width="427" height="774" alt="image" src="https://github.com/user-attachments/assets/32ca0415-c8bb-4734-ad3c-708464143df7" />
 
 **Procedure**
 
@@ -51,13 +53,14 @@ assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
 
-**RTL realization**
-![Alt text](img001.png)
-**Output:**
-![Alt text](img002.png)
+**RTL realization** 
 
-**Timing Diagram**
-![Alt text](img003.png)
+<img width="785" height="433" alt="image" src="https://github.com/user-attachments/assets/1e6fb2e1-ae83-4af6-b005-fbe001f44f83" />
+
+**Output:** 
+
+<img width="1305" height="679" alt="image" src="https://github.com/user-attachments/assets/c6f40ed8-2219-481a-9b89-8ca8fb434cc8" />
+
 
 **Result:**
 
